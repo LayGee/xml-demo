@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<animes>
+	<anime id="1">
+		<title>Jujutsu Kaisen Season 1</title>
+		<characters>
+			<protagonist>
+				<character id="1">Yuji Itadori</character>
+				<character id="2">Ryomen Sukuna</character>
+				<character id="3">Satoru Gojo</character>
+				<character id="4">Megumi Fushiguro</character>
+				<character id="5">Nobara Kugisaki</character>
+			</protagonist>
+			<antagonist>
+				<character id="1">Suguru Geto</character>
+				<character id="2">Mahito</character>
+				<character id="3">Hanami</character>
+				<character id="4">Jogo</character>
+			</antagonist>
+		</characters>
+		<author>Gege Akutami</author>
+		<published_by>Shueisha</published_by>
+		<studio>MAPPA</studio>
+		<episodes>24 Episodes</episodes>
+		<genres>
+			<genre id="1">Adventure</genre>
+			<genre id="2">Dark Fantacy</genre>
+			<genre id="3">Supernatural</genre>
+		</genres>
+		<release_date>
+			<year>2020</year>
+			<month>10</month>
+			<day>03</day>
+		</release_date>
+		<movie>
+			<title>Jujutsu Kaisen 0</title>
+			<characters>
+				<protagonist>
+					<character>Yuta Okkotsu</character>
+				</protagonist>
+				<antagonist>
+					<character>Suguru Geto</character>
+				</antagonist>
+			</characters>
+			<genres>
+				<genre id="1">Fantacy</genre>
+				<genre id="2">Action</genre>
+			</genres>
+			<duration>
+				<hrs>1</hrs>
+				<mins>45</mins>
+			</duration>
+			<release_date>
+				<year>2021</year>
+				<month>12</month>
+				<day>24</day>
+			</release_date>
+		</movie>
+	</anime>
+	<anime id="2">
+		<title>Kimetsu no Yaiba Season 1</title>
+		<characters>
+			<protagonist>
+				<character id="1">Tanjiro Kamado</character>
+				<character id="2">Nezuko Kamado</character>
+				<character id="3">Zenitsu Agatsuma</character>
+				<character id="4">Hashibira Inosuka</character>
+			</protagonist>
+			<antagonist>
+				<character id="1">Kyogai</character>
+				<character id="2">Rui</character>
+				<character id="3">The Upper Rank Kizuki</character>
+				<character id="4">Daki</character>
+				<character id="5">Gyutaro</character>
+				<character id="6">Muzan Kibutsuji</character>
+			</antagonist>
+		</characters>
+		<author>Koyoharu Gotouge</author>
+		<published_by>Shueisha</published_by>
+		<studio>Ufotable</studio>
+		<episodes>26 Episodes</episodes>
+		<genres>
+			<genre id="1">Adventure</genre>
+			<genre id="2">Dark Fantacy</genre>
+			<genre id="3">Martial Arts</genre>
+		</genres>
+		<release_date>
+			<year>2019</year>
+			<month>04</month>
+			<day>06</day>
+		</release_date>
+		<movie>
+			<title>Mugen Train</title>
+			<characters>
+				<protagonist>
+					<character id="1">Tanjiro Kamado</character>
+					<character id="2">Nezuko Kamado</character>
+					<character id="3">Zenitsu Agatsuma</character>
+					<character id="4">Hashibira Inosuka</character>
+					<character id="5">Kyojuro Rengoku</character>
+				</protagonist>
+				<antagonist>
+					<character id="1">Enmu</character>
+					<character id="2">Akaza</character>
+				</antagonist>
+			</characters>
+			<genres>
+				<genre id="1">Fantacy</genre>
+				<genre id="2">Action</genre>
+			</genres>
+			<duration>
+				<hrs>1</hrs>
+				<mins>57</mins>
+			</duration>
+			<release_date>
+				<year>2020</year>
+				<month>10</month>
+				<day>16</day>
+			</release_date>
+		</movie>
+	</anime>
+	<anime id="3">
+		<title>The Rising of the Shield Hero</title>
+		<characters>
+			<protagonist>Naofumi Iwatani</protagonist>
+			<antagonist>
+				<character id="1">Aultcray Melromarc XXXII</character>
+				<character id="2">Malty S Melromarc</character>
+				<character id="3">Takt Alsaholn Faubrey</character>
+				<character id="4">Kazuki</character>
+			</antagonist>
+		</characters>
+		<author>Aneko Yusagi</author>
+		<published_by>Media factory</published_by>
+		<studio>Kinema Citrus</studio>
+		<episodes>25 Episodes</episodes>
+		<genres>
+			<genre id="1">Anime</genre>
+			<genre id="2">Isekai</genre>
+			<genre id="3">Dark Fantacy</genre>
+		</genres>
+		<release_date>
+			<year>2019</year>
+			<month>01</month>
+			<day>09</day>
+		</release_date>
+	</anime>
+	<anime id="4">
+		<title>One Punch Man Season 1</title>
+		<characters>
+			<protagonist>
+				<character id="1">Saitama</character>
+				<character id="2">Genos</character>
+			</protagonist>
+			<antagonist>
+				<character id="1">Garou</character>
+				<character id="2">Boros</character>
+				<character id="3">Deep Sea King</character>
+			</antagonist>
+		</characters>
+		<authors>
+			<author id="1">Yusuke Murata</author>
+			<author id="2">ONE</author>
+		</authors>
+		<published_by>Self-published</published_by>
+		<studio>Madhouse</studio>
+		<episodes>24 Episodes</episodes>
+		<genres>
+			<genre id="1">Action</genre>
+			<genre id="2">Comedy</genre>
+			<genre id="3">Superhero</genre>
+		</genres>
+		<release_date>
+			<year>2015</year>
+			<month>10</month>
+			<day>04</day>
+		</release_date>
+	</anime>
+	<anime id="5">
+		<title>Horimiya</title>
+		<characters>
+			<character id="1">Izumi Miyamura</character>
+			<character id="2">Kyoko Hori</character>
+		</characters>
+		<author>HERO</author>
+		<published_by>Square Enix</published_by>
+		<studio>CloverWorks</studio>
+		<episodes>13 Episodes</episodes>
+		<genres>
+			<genre id="1">Romantic</genre>
+			<genre id="2">Comedy</genre>
+		</genres>
+		<release_date>
+			<year>2021</year>
+			<month>01</month>
+			<day>10</day>
+		</release_date>
+	</anime>
+	<anime id="6">
+		<title>My Hero Academia Season 1</title>
+		<characters>
+			<protagonist>
+				<character id="1">Izuku Midoriya</character>
+				<character id="2">Katsuki Bakugo</character>
+				<character id="3">Shoto Todoroki</character>
+				<character id="4">Almight</character>
+			</protagonist>
+			<antagonist>
+				<character id="1">All For One</character>
+				<character id="2">Tomura Shigaraki</character>
+				<character id="3">Dabi</character>
+				<character id="4">Himiko Toga</character>
+				<character id="5">Twice</character>
+				<character id="6">Mr. Compass</character>
+				<character id="7">Spinner</character>
+			</antagonist>
+		</characters>
+		<author>Kohei Horikoshi</author>
+		<published_by>Shueisha</published_by>
+		<studio>Bones</studio>
+		<episodes>13 Episodes</episodes>
+		<genres>
+			<genre id="1">Adventure</genre>
+			<genre id="2">Science Fantacy</genre>
+			<genre id="3">Superherol</genre>
+		</genres>
+		<release_date>
+			<year>2016</year>
+			<month>04</month>
+			<day>03</day>
+		</release_date>
+		<movie>
+			<title>Two Heroes</title>
+			<characters>
+				<protagonist>
+					<character id="1">Almight</character>
+					<character id="2">Izuku Midoriya</character>
+					<character id="3">Katsuki Bakugo</character>
+					<character id="4">Shoto Todoroki</character>
+					<character id="5">Ochaco Uraraka</character>
+					<character id="6">Tenya Ida</character>
+				</protagonist>
+				<antagonist>
+					<character>Wolfram</character>
+				</antagonist>
+			</characters>
+			<genres>
+				<genre id="1">Superheroes</genre>
+				<genre id="2">Action</genre>
+			</genres>
+			<duration>
+				<hrs>1</hrs>
+				<mins>36</mins>
+			</duration>
+			<release_date>
+				<year>2018</year>
+				<month>08</month>
+				<day>03</day>
+			</release_date>
+		</movie>
+	</anime>
+	<anime id="7">
+		<title>Fairy Tail Season 1</title>
+		<characters>
+			<protagonist>
+				<character id="1">Natsu Dragneel</character>
+				<character id="2">Lucy Heartfilia</character>
+				<character id="3">Erza Scarlet</character>
+				<character id="4">Gray Fullbuster</character>
+				<character id="5">Happy</character>
+			</protagonist>
+			<antagonist>
+				<character id="1">Zeref Dragneel</character>
+				<character id="2">Hades</character>
+				<character id="3">Jose Porla</character>
+				<character id="4">Jellal Fernandez</character>
+				<character id="5">Gajeel</character>
+				<character id="6">Laxus Dreyar</character>
+			</antagonist>
+		</characters>
+		<author>Hiro Mashima</author>
+		<published_by>Kodansha</published_by>
+		<studio>A-1 Pictures</studio>
+		<episodes>48 Episodes</episodes>
+		<genres>
+			<genre id="1">Adventure</genre>
+			<genre id="2">Fantacy</genre>
+			<genre id="3">Action</genre>
+		</genres>
+		<release_date>
+			<year>2009</year>
+			<month>10</month>
+			<day>12</day>
+		</release_date>
+	</anime>
+</animes>
